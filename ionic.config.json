@@ -1,0 +1,7 @@
+{
+  "name": "myTasksCreate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

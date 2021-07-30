@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myTasksCreate",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
